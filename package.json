@@ -1,6 +1,6 @@
 {
   "name": "@iqdavidh/pubreactinmvc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "fs-sync": "^1.0.6"
   },
