@@ -1,6 +1,7 @@
 {
   "name": "@iqdavidh/pubreactinmvc",
   "version": "1.0.2",
+  "description": "Publicar una aplicación react en una carpeta public en una aplicación MVC, caso explicado C#",
   "dependencies": {
     "fs-sync": "^1.0.6"
   },
